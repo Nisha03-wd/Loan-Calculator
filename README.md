@@ -9,6 +9,11 @@ An interactive loan calculator built with Streamlit. Enter borrower and loan det
 - Advanced options: processing fee, insurance, optional fee financing, extra monthly prepayment
 - Affordability indicator vs income
 
+
+## 🚀 Live Demo  
+👉 [Click here to use the Loan Calculator](https://loan-calculator-5enyjqligkkq6dkdvwdgep.streamlit.app/)
+
+
 ## Quickstart (Local)
 ```bash
 # (optional) create & activate virtual env
